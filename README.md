@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **EV Market Segmentation**
 
-- 🌱 I’m currently learning **IIT Kanpur Professional Data Science**
+- 🌱 I’m currently learning **IIT Kanpur's Professional Data Science Certification**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamsawarkar01](https://github.com/shubhamsawarkar01)
 
