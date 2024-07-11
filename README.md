@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhamsawarkar01/shubhamsawarkar01/blob/main/Banner.png)
+![logo](https://github.com/shubhamsawarkar01/shubhamsawarkar01/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Shubham Sawarkar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
